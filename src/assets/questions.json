@@ -1,0 +1,212 @@
+[
+    {
+        "img": "argentina.png",
+        "options": [
+            "guatemala",
+            "argentina",
+            "uruguay",
+            "brazil"
+        ],
+        "right_answer": "argentina"
+    },
+    {
+        "img": "brazil.png",
+        "options": [
+            "bolivia",
+            "chile",
+            "brazil",
+            "sweden"
+        ],
+        "right_answer": "brazil"
+    },
+    {
+        "img": "canada.png",
+        "options": [
+            "canada",
+            "egypt",
+            "tunisia",
+            "brazil"
+        ],
+        "right_answer": "canada"
+    },
+    {
+        "img": "egypt.png",
+        "options": [
+            "syria",
+            "egypt",
+            "iraq",
+            "china"
+        ],
+        "right_answer": "egypt"
+    },
+    {
+        "img": "germany.png",
+        "options": [
+            "belgium",
+            "ireland",
+            "germany",
+            "sweden"
+        ],
+        "right_answer": "germany"
+    },
+    {
+        "img": "iraq.png",
+        "options": [
+            "iraq",
+            "syria",
+            "yemen",
+            "iraq"
+        ],
+        "right_answer": "iraq"
+    },
+   
+    {
+        "img": "mexico.png",
+        "options": [
+            "italy",
+            "iran",
+            "mexico",
+            "iraq"
+        ],
+        "right_answer": "mexico"
+    },
+   
+    {
+        "img": "india.png",
+        "options": [
+            "niger",
+            "india",
+            "hungary",
+            "palestine"
+        ],
+        "right_answer": "india"
+    },
+ 
+    {
+        "img": "saudi-arabia.png",
+        "options": [
+            "palestine",
+            "saudi arabia",
+            "kuwait",
+            "sweden"
+        ],
+        "right_answer": "saudi arabia"
+    },
+    {
+        "img": "hongkong.png",
+        "options": [
+            "hong kong",
+            "Haiti",
+            "Timor-Leste",
+            "iraq"
+        ],
+        "right_answer": "hong kong"
+    },
+    {
+        "img": "maldives.png",
+        "options": [
+            "Zambia",
+            "maldives",
+            "Turkmenistan",
+            "sweden"
+        ],
+        "right_answer": "maldives"
+    },
+    
+    {
+        "img": "sweden.png",
+        "options": [
+            "sweden",
+            "denmark",
+            "iraq",
+            "norway"
+        ],
+        "right_answer": "sweden"
+    },
+    
+    {
+        "img": "nepal.png",
+        "options": [
+            "Madagascar",
+            "nepal",
+            "Benin",
+            "china"
+        ],
+        "right_answer": "nepal"
+    },
+    {
+        "img": "turkey.png",
+        "options": [
+            "pakistan",
+            "tunisia",
+            "turkey",
+            "iran"
+        ],
+        "right_answer": "turkey"
+    },
+    {
+        "img": "thailand.png",
+        "options": [
+            "thailand",
+            "russia",
+            "luxembourg",
+            "china"
+        ],
+        "right_answer": "thailand"
+    },
+    {
+        "img": "zimbabwe.png",
+        "options": [
+            "ethiopia",
+            "zimbabwe",
+            "mozambique",
+            "india"
+        ],
+        "right_answer": "zimbabwe"
+    },
+    
+    
+    {
+        "img": "sri-lanka.png",
+        "options": [
+            "tajikistan",
+            "pakistan",
+            "sri lanka",
+            "china"
+        ],
+        "right_answer": "sri lanka"
+    },
+   
+    {
+        "img": "china.png",
+        "options": [
+            "vietnam",
+            "taiwan",
+            "china",
+            "pakistan"
+        ],
+        "right_answer": "china"
+    },
+    
+    {
+        "img": "austria.png",
+        "options": [
+            "lithuania",
+            "latvia",
+            "austria",
+            "pakistan"
+        ],
+        "right_answer": "austria"
+    },
+    {
+        "img": "serbia.png",
+        "options": [
+            "slovakia",
+            "serbia",
+            "slovenia",
+            "austria"
+        ],
+        "right_answer": "serbia"
+    }
+    
+]

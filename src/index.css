@@ -1,0 +1,217 @@
+
+.background{
+  background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+padding-block: 30px;
+}
+.button{
+  background-color: white;
+  width: 400px;
+  font-size: 20px;
+  font-weight: 600;
+  color: rgb(71, 71, 71);
+  border: 1px solid white;
+
+}
+.button:hover{
+  background-color: rgb(238, 238, 238);
+  width: 400px;
+  font-size: 20px;
+  font-weight: 600;
+  color: rgb(71, 71, 71);
+  border: 1px solid rgb(167, 166, 166);
+
+}
+.results{
+  display: flex;
+  justify-content: space-around;
+}
+.image{
+  border: 2px solid white;
+  border-radius: 5px;
+  height:140px;
+   width:300px;
+}
+.options{
+  width: 200px;
+  font-size: 20px;
+  font-weight: 600;
+  color: white;
+  border: 1px solid white;
+  background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+}
+.options:hover{
+  width: 220px;
+  font-size: 22px;
+  font-weight: 600;
+  color: white;
+  border: 1px solid white;
+  background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+}
+.options-red{
+  padding-block: 10px;
+  font-size: 20px;
+  font-weight: 600;
+  color: white;
+  border: 1px solid white;
+  border-radius: 5px;
+  background-image: linear-gradient(90deg, red 0%, rgb(245, 191, 181) 100%);
+}
+.options-green{
+ 
+  padding-block: 10px;
+  font-size: 20px;
+  font-weight: 600;
+  color: white;
+  border: 1px solid white;
+  border-radius: 5px;
+  background-image: linear-gradient(90deg, green 0%, rgb(181, 245, 203) 100%);
+}
+.heading{
+  color: rgb(88, 88, 88);
+  padding-top: 10px;
+  font-weight: 700;
+
+  text-shadow: 2px 2px #f3efef;
+  font-weight: 700;
+}
+.question-heading{
+  color: rgb(88, 88, 88);
+  text-shadow: 2px 2px #f3efef;
+  font-weight: 700;
+}
+.container{
+  width:600px
+}
+@media screen and (max-width: 600px) {
+  .container{
+    width:450px
+  }
+  .button{
+    background-color: white;
+    width: 200px;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(71, 71, 71);
+    border: 1px solid white;
+  
+  }
+  .button:hover{
+    background-color: rgb(238, 238, 238);
+    width: 200px;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(71, 71, 71);
+    border: 1px solid rgb(167, 166, 166);
+  
+  }
+}
+@media screen and (max-width: 500px) {
+  .container{
+    width:400px
+  }
+  .button{
+    background-color: white;
+    width: 200px;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(71, 71, 71);
+    border: 1px solid white;
+  
+  }
+  .button:hover{
+    background-color: rgb(238, 238, 238);
+    width: 200px;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(71, 71, 71);
+    border: 1px solid rgb(167, 166, 166);
+  
+  }
+}
+@media screen and (max-width: 450px) {
+  .container{
+    width:350px
+  }
+  .button{
+    background-color: white;
+    width: 200px;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(71, 71, 71);
+    border: 1px solid white;
+  
+  }
+  .button:hover{
+    background-color: rgb(238, 238, 238);
+    width: 200px;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(71, 71, 71);
+    border: 1px solid rgb(167, 166, 166);
+  
+  }
+}
+@media screen and (max-width: 400px) {
+  .container{
+    width:300px
+  }
+  .button{
+    background-color: white;
+    width: 200px;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(71, 71, 71);
+    border: 1px solid white;
+  
+  }
+  .button:hover{
+    background-color: rgb(238, 238, 238);
+    width: 200px;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(71, 71, 71);
+    border: 1px solid rgb(167, 166, 166);
+  
+  }
+  .image{
+    border: 2px solid white;
+    border-radius: 5px;
+    height:140px;
+     width:250px;
+  }
+  .results{
+    display: block
+  }
+}
+@media screen and (max-width: 350px) {
+  .container{
+    width:280px
+  }
+  .button{
+    background-color: white;
+    width: 200px;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(71, 71, 71);
+    border: 1px solid white;
+  
+  }
+  .button:hover{
+    background-color: rgb(238, 238, 238);
+    width: 200px;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(71, 71, 71);
+    border: 1px solid rgb(167, 166, 166);
+  
+  }
+  .image{
+    border: 2px solid white;
+    border-radius: 5px;
+    height:140px;
+     width:250px;
+  }
+  .results{
+    display: block
+  }
+}
